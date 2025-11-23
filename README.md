@@ -37,3 +37,26 @@ Feel free to browse the certificates in the `/certificates` directory or in the 
 For more details or verification, feel free to reach out to me!
 
 ***
+
+## 📋 Certificate List
+
+- **Introduction to Cryptocurrency** (Corporate Finance Institute) – `8.Cryptocurrency.jpg`
+- **Rotaract Club Membership & Appreciation** (Rotary International, BITS Pilani) – `Rotract.jpg`
+- **Chandrayaan-3 Mahaquiz Participation** (ISRO, MyGov) – `317aa1e89547c90fcd0076ac1dba6629.jpg`
+- **Machine Learning Basic** (Coursera) – `1.Machine-learning-basic.pdf`
+- **Data Structures** (Coursera) – `2b.Data-structures.pdf`
+- **Data Structures and Algorithms** (Coursera) – `2.Data-structures-and-algorithms.pdf`
+- **Algorithms on Graphs** (Coursera) – `2c.Algorithm-on-graphs.pdf`
+- **Algorithms in Strings** (Coursera) – `2d.Algorithms-in-strings.pdf`
+- **Advanced Algorithms and Complexity** (Coursera) – `2e.Advanced-algorithms-and-complexity.pdf`
+- **Genome Assembly Programming Challenge** (Coursera) – `2f.Genome-assembly-programing-challenge.pdf`
+- **Algorithm Toolbox** (Coursera) – `2a.Algorithm-toolbox.pdf`
+- **IOT and Embedded Systems** – `4.-IOT-and-embedded-systems.pdf`
+- **Accounting and Finance for IT Professionals** – `3.-Accounting-and-finance-for-IT-professionals.pdf`
+- **Statistics with Python** – `7.-Statictics-with-python.pdf`
+- **Cybersecurity** – `5.-Cybersecurity.pdf`
+- **Deep Learning** – `9.Deep-learning.pdf`
+- **Advanced Keras** – `9c-Advanced-Keras.pdf`
+- **Intro to Tensorflow** – `9b-Intro-to-Tensorflow.pdf`
+- **Database Management Systems (DBMS)** – `11.-DBMS.pdf`
+***
