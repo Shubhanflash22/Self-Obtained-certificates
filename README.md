@@ -18,7 +18,7 @@ This repository is a collection of my professional and academic certificates, in
 ## 📚 Usage
 
 This repository serves as a portfolio and proof of my credentials for professional, academic, and networking purposes.  
-Feel free to browse the certificates in the `/certificates` directory or in the root to view my achievements.
+Feel free to browse the certificates in the main directory.
 
 ## 🏅 Highlights
 
